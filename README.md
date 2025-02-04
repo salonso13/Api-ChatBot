@@ -1,2 +1,2 @@
 # Api-ChatBot
-Chat con ia que utiliza la api de Gemini de Google
+API que usa la clave de Gemini para crear un chatbot inteligente, permitiendo interacciones en tiempo real con respuestas contextuales.
